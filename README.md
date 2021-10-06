@@ -7,6 +7,6 @@ Binary to Hexadecimal Conversion
 Octal to Decimal Conversion
 Octal to Binary Conversion
 Octal to Hexadecimal Conversion
-Hexadecimal to decimal Conversion
-Hexadecimal to binary Conversion
-Hexadecimal to octal Conversion
+Hexadecimal to Decimal Conversion
+Hexadecimal to Binary Conversion
+Hexadecimal to Octal Conversion
