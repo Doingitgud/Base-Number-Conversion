@@ -1,5 +1,5 @@
 Decimal to Binary Conversion
-Decimal to Octal Conversion
+\nDecimal to Octal Conversion
 Decimal to Hexadecimal Conversion
 Binary to Decimal Conversion
 Binary to Octal Conversion
